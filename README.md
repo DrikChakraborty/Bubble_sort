@@ -1,6 +1,7 @@
 Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in the wrong order. This algorithm is not suitable for large data sets as its average and worst-case time complexity is quite high.
 
-![image](https://user-images.githubusercontent.com/125429673/234466569-2fedef9d-1077-400f-9491-cb0a8af1d447.png)
+ ![image](https://user-images.githubusercontent.com/125429673/234466931-e6ed5065-a8b3-42cf-8707-85b869d8b6a1.png)
+
 
 Follow the below steps to solve the problem:
 
